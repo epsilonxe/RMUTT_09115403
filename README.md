@@ -45,7 +45,7 @@ Topics of students' interest in applied mathematics which will be announced in a
 | ไวยากรณ์ในภาษา Python ระดับเบื้องต้น | [บทที่ 2](./materials/ch_02/texts.pdf) และ [ตัวอย่างสคริปต์](https://github.com/epsilonxe/RMUTT_09115403/tree/master/materials/ch_02) |
 | การใช้งาน Python Interpreter และการเรียกใช้งาน Python Script | [บทที่ 2](./materials/ch_02/texts.pdf) และ [ตัวอย่างสคริปต์](https://github.com/epsilonxe/RMUTT_09115403/tree/master/materials/ch_02) |
 |การแนะนำการใช้ Variables |  |
-|การแนะนำโครงสร้างข้อมูลของไพธอน |  |
+|การแนะนำ Python Data Structure |  |
 |การใช้งาน Control Statements  |   |
 |การเขียน Functions และ Lambda Functions |  |
 |การเรียกใช้ Built-in Functions |   |
