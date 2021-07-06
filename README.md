@@ -44,13 +44,14 @@ Topics of students' interest in applied mathematics which will be announced in a
 |การแนะนำการใช้งาน Text Editors และ IDEs ที่เป็นที่นิยมสำหรับการพัฒนาโปรแกรมคอมพิวเตอร์ | [บทที่ 2](./materials/ch_02/texts.pdf) |
 | ไวยากรณ์ในภาษา Python ระดับเบื้องต้น | [บทที่ 2](./materials/ch_02/texts.pdf) และ [ตัวอย่างสคริปต์](https://github.com/epsilonxe/RMUTT_09115403/tree/master/materials/ch_02) |
 | การใช้งาน Python Interpreter และการเรียกใช้งาน Python Script | [บทที่ 2](./materials/ch_02/texts.pdf) และ [ตัวอย่างสคริปต์](https://github.com/epsilonxe/RMUTT_09115403/tree/master/materials/ch_02) |
-|การแนะนำการใช้ Variables และ Built-In Data Structures |  |
+|การแนะนำการใช้ Variables |  |
+|การแนะนำโครงสร้างข้อมูลของไพธอน |  |
 |การใช้งาน Control Statements  |   |
-|การเรียกใช้ Built-in Functions |   |
 |การเขียน Functions และ Lambda Functions |  |
+|การเรียกใช้ Built-in Functions |   |
+|การพัฒนาโปรแกรมคอมพิวเตอร์ด้วยแนวทาง Object Oriented Programming: OOP |  |
 |การเตรียมรับข้อผิดพลาด และข้อยกเว้น ในการพัฒนาโปรแกรมคอมพิวเตอร์ |  |
 |การพัฒนาโปรแกรมสำหรับการเชื่อมต่อกับไฟล์ และระบบปฏิบัติการณ์ |  |
-|การพัฒนาโปรแกรมคอมพิวเตอร์ด้วยแนวทาง Object Oriented Programming: OOP |  |
 |การใช้งานไลบราลี Numpy สำหรับงานด้านวิทยาศาสตร์ และวิศวกรรมศาสตร์ |  |
 |การคำนวณเชิงสัญลักษณ์ สำหรับงานด้านวิทยาศาสตร์ และวิศวกรรมศาสตร์ |  |
 |การใช้งานไลบราลี Pandas สำหรับงานด้านวิทยาศาสตร์ และวิศวกรรมศาสตร์  |  |
