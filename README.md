@@ -38,12 +38,12 @@ Topics of students' interest in applied mathematics which will be announced in a
 
 | หัวข้อ | เอกสารประกอบ |
 | -----|------------|
-| บทนำสู่การเขียนโปรแกรมคอมพิวเตอร์ด้วยภาษา Python | [เอกสารบทที่ 01](./materials/ch_01/texts.pdf)  |
-|การติดตั้ง Python Interpreter | [เอกสารบทที่ 02](./materials/ch_02/texts.pdf) |
-|การแนะนำการใช้งาน Command Line User Interface | [เอกสารบทที่ 02](./materials/ch_02/texts.pdf) |
-|การแนะนำการใช้งาน Text Editors และ IDEs ที่เป็นที่นิยมสำหรับการพัฒนาโปรแกรมคอมพิวเตอร์ | [เอกสารบทที่ 02](./materials/ch_02/texts.pdf) |
-| ไวยากรณ์ในภาษา Python ระดับเบื้องต้น | [เอกสารบทที่ 02](./materials/ch_02/texts.pdf) และ [ตัวอย่างสคริปต์](https://github.com/epsilonxe/RMUTT_09115403/tree/master/materials/ch_02) |
-| การใช้งาน Python Interpreter และการเรียกใช้งาน Python Script | [Chapter 02](./materials/ch_02/texts.pdf) และ [ตัวอย่างสคริปต์](https://github.com/epsilonxe/RMUTT_09115403/tree/master/materials/ch_02) |
+| บทนำสู่การเขียนโปรแกรมคอมพิวเตอร์ด้วยภาษา Python | [บทที่ 1](./materials/ch_01/texts.pdf)  |
+|การติดตั้ง Python Interpreter | [บทที่ 2](./materials/ch_02/texts.pdf) |
+|การแนะนำการใช้งาน Command Line User Interface | [บทที่ 2](./materials/ch_02/texts.pdf) |
+|การแนะนำการใช้งาน Text Editors และ IDEs ที่เป็นที่นิยมสำหรับการพัฒนาโปรแกรมคอมพิวเตอร์ | [บทที่ 2](./materials/ch_02/texts.pdf) |
+| ไวยากรณ์ในภาษา Python ระดับเบื้องต้น | [บทที่ 2](./materials/ch_02/texts.pdf) และ [ตัวอย่างสคริปต์](https://github.com/epsilonxe/RMUTT_09115403/tree/master/materials/ch_02) |
+| การใช้งาน Python Interpreter และการเรียกใช้งาน Python Script | [บทที่ 2](./materials/ch_02/texts.pdf) และ [ตัวอย่างสคริปต์](https://github.com/epsilonxe/RMUTT_09115403/tree/master/materials/ch_02) |
 |การแนะนำการใช้ Variables และ Built-In Data Structures |  |
 |การใช้งาน Control Statements  |   |
 |การเรียกใช้ Built-in Functions |   |
