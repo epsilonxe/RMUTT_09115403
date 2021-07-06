@@ -92,3 +92,6 @@ t-score = 50 + 10*(x - u)/s
 - Mark Lutz. Learning Python, 5th Edition. O'Reilly Media, Inc. (2013).
 - W. McKinney. Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython. O'Reilly Media, Inc. (2018)
 - J. Douglas Faires, Richard L. Burden. Numerical Methods, 4th Edition. Brooks/Cole Cengage Learning. (2013)
+
+## License
+Copyright (c) 2021 Ratthaprom Promkam
