@@ -42,8 +42,8 @@ Topics of students' interest in applied mathematics which will be announced in a
 |การติดตั้ง Python Interpreter | [PDF](./materials/ch_02/texts.pdf) |
 |การแนะนำการใช้งาน Command Line User Interface | [PDF](./materials/ch_02/texts.pdf) |
 |การแนะนำการใช้งาน Text Editors และ IDEs ที่เป็นที่นิยมสำหรับการพัฒนาโปรแกรมคอมพิวเตอร์ | [PDF](./materials/ch_02/texts.pdf) |
-| ไวยากรณ์ในภาษา Python ระดับเบื้องต้น | [PDF](./materials/ch_02/texts.pdf), [Scripts](./materials/ch_02/) |
-| การใช้งาน Python Interpreter และการเรียกใช้งาน Python Script | [PDF](./materials/ch_02/texts.pdf), [Scripts](./materials/ch_02/) |
+| ไวยากรณ์ในภาษา Python ระดับเบื้องต้น | [PDF](./materials/ch_02/texts.pdf), [Scripts](https://github.com/epsilonxe/RMUTT_09115403/tree/master/materials/ch_02) |
+| การใช้งาน Python Interpreter และการเรียกใช้งาน Python Script | [PDF](./materials/ch_02/texts.pdf), [Scripts](https://github.com/epsilonxe/RMUTT_09115403/tree/master/materials/ch_02) |
 |การแนะนำการใช้ Variables และ Built-In Data Structures |  |
 |การใช้งาน Control Statements  |   |
 |การเรียกใช้ Built-in Functions |   |
