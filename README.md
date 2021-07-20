@@ -44,7 +44,7 @@ Topics of students' interest in applied mathematics which will be announced in a
 |การแนะนำการใช้งาน Text Editors และ IDEs ที่เป็นที่นิยมสำหรับการพัฒนาโปรแกรมคอมพิวเตอร์ | [บทที่ 2](./materials/ch_02/texts.pdf) |
 | ไวยากรณ์ในภาษา Python ระดับเบื้องต้น | [บทที่ 2](./materials/ch_02/texts.pdf) และ [ตัวอย่างสคริปต์](https://github.com/epsilonxe/RMUTT_09115403/tree/master/materials/ch_02) |
 | การใช้งาน Python Interpreter และการเรียกใช้งาน Python Script | [บทที่ 2](./materials/ch_02/texts.pdf) และ [ตัวอย่างสคริปต์](https://github.com/epsilonxe/RMUTT_09115403/tree/master/materials/ch_02) |
-|การแนะนำการใช้ Variables |  |
+|การแนะนำการใช้ Variables | [บทที่ 3](./materials/ch_03/texts.pdf) และ [ตัวอย่างสคริปต์](https://github.com/epsilonxe/RMUTT_09115403/tree/master/materials/ch_03) |
 |การแนะนำ Python Data Structure |  |
 |การใช้งาน Control Statements  |   |
 |การเขียน Functions และ Lambda Functions |  |
