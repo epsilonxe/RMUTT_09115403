@@ -46,16 +46,11 @@ Topics of students' interest in applied mathematics which will be announced in a
 | การใช้งาน Python Interpreter และการเรียกใช้งาน Python Script | [บทที่ 2](./materials/ch_02/texts.pdf) และ [ตัวอย่างสคริปต์](https://github.com/epsilonxe/RMUTT_09115403/tree/master/materials/ch_02) |
 |การแนะนำการใช้ Variables | [บทที่ 3](./materials/ch_03/texts.pdf) และ [ตัวอย่างสคริปต์](https://github.com/epsilonxe/RMUTT_09115403/tree/master/materials/ch_03) |
 |การแนะนำการใช้ String | [บทที่ 4](./materials/ch_04/texts.pdf) และ [ตัวอย่างสคริปต์](https://github.com/epsilonxe/RMUTT_09115403/tree/master/materials/ch_04) |
-|การแนะนำ Python Data Structure |  |
+|การแนะนำ Python Data Structure | [บทที่ 5](./materials/ch_05/texts.pdf) และ [ตัวอย่างสคริปต์](https://github.com/epsilonxe/RMUTT_09115403/tree/master/materials/ch_04) |
 |การใช้งาน Control Statements  |   |
 |การเขียน Functions และ Lambda Functions |  |
 |การเรียกใช้ Built-in Functions |   |
-|การพัฒนาโปรแกรมคอมพิวเตอร์ด้วยแนวทาง Object Oriented Programming: OOP |  |
-|การเตรียมรับข้อผิดพลาด และข้อยกเว้น ในการพัฒนาโปรแกรมคอมพิวเตอร์ |  |
-|การพัฒนาโปรแกรมสำหรับการเชื่อมต่อกับไฟล์ และระบบปฏิบัติการณ์ |  |
 |การใช้งานไลบราลี Numpy สำหรับงานด้านวิทยาศาสตร์ และวิศวกรรมศาสตร์ |  |
-|การคำนวณเชิงสัญลักษณ์ สำหรับงานด้านวิทยาศาสตร์ และวิศวกรรมศาสตร์ |  |
-|การใช้งานไลบราลี Pandas สำหรับงานด้านวิทยาศาสตร์ และวิศวกรรมศาสตร์  |  |
 |การทำ Data Visualization สำหรับงานด้านวิทยาศาสตร์ และวิศวกรรมศาสตร์  |  |
 |การพัฒนาโปรแกรมด้านระเบียบวิธีเชิงตัวเลขระดับเบื้องต้นสำหรับงานด้านวิทยาศาสตร์ และวิศวกรรมศาสตร์ |  |
 
