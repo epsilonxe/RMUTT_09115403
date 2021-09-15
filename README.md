@@ -48,7 +48,7 @@ Topics of students' interest in applied mathematics which will be announced in a
 |การแนะนำการใช้ String | [บทที่ 4](./materials/ch_04/texts.pdf) และ [ตัวอย่างสคริปต์](https://github.com/epsilonxe/RMUTT_09115403/tree/master/materials/ch_04) |
 |การแนะนำ Python Data Structure | [บทที่ 5](./materials/ch_05/texts.pdf) และ [ตัวอย่างสคริปต์](https://github.com/epsilonxe/RMUTT_09115403/tree/master/materials/ch_05) |
 |การใช้งาน Control Statements  | [บทที่ 6](./materials/ch_06/texts.pdf) และ [ตัวอย่างสคริปต์](https://github.com/epsilonxe/RMUTT_09115403/tree/master/materials/ch_06)  |
-|การเขียน Functions และ Lambda Functions |  |
+|การเขียน Functions และ Lambda Functions | [บทที่ 7](./materials/ch_07/texts.pdf) และ [ตัวอย่างสคริปต์](https://github.com/epsilonxe/RMUTT_09115403/tree/master/materials/ch_07) |
 |การเรียกใช้ Built-in Functions |   |
 |การใช้งานไลบราลี Numpy สำหรับงานด้านวิทยาศาสตร์ และวิศวกรรมศาสตร์ |  |
 |การทำ Data Visualization สำหรับงานด้านวิทยาศาสตร์ และวิศวกรรมศาสตร์  |  |
