@@ -18,10 +18,10 @@ def zero_abs_error(val, precision):
         result = True
     return result
 
-
 def rel_error(val1, val2, precision):
     ea = abs( (val2 - val1) / val2 )
-    if ea <= 10 ** (-precision):
+    # print('REL_ERR->', val1, val2, ea)
+    if ea >= 10 ** (-precision):
         result = True
     else:
         result = False
@@ -40,12 +40,20 @@ if f(ls)*f(rs) < 0:
     printline()
 
     n_round = 0
-    precision = 5
+    precision = 1
 
-    while zero_abs_error(f(mid), precision) :
+    '''
+    The first member of mid_list is a dummy value
+    which is set to 999*mid.
+    This guarantees a very high relative error in the first round.
+    '''
+    mid_list = [999*mid, mid]
+
+    print(f"{'ROUND':16} {'LS':14} {'RS':14} {'MID':14} {'f(MID)':20}")
+
+    while rel_error(mid_list[-2], mid_list[-1], precision) :       
         n_round = n_round + 1
-        mid = (ls + rs) / 2 
-        print(f'r={n_round:3} -> {ls:14.{precision}f} {rs:14.{precision}f} {mid:14.{precision}f} {f(mid):20.{precision}f}')
+        print(f'r={n_round:3} -> {ls:14.5f} {rs:14.5f} {mid:14.5f} {f(mid):20.5f}')
         if f(ls) * f(mid) > 0:
             ls = mid
         elif f(rs) * f(mid) > 0:
@@ -53,9 +61,11 @@ if f(ls)*f(rs) < 0:
         else:
             print('Fetal Error')
             break
+        mid = (ls + rs) / 2
+        mid_list.append(mid)
 
     printline()
-    print(f'Root of f(x) is {mid:20.{precision}f} => f({mid:20.{precision}f}) = {f(mid):20.{precision}f}' )
+    print(f'Root of f(x) is {mid:20.5f} => f({mid:20.5f}) = {f(mid):20.5f}' )
 
 else:
     print('Incorrect inputs')
