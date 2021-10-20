@@ -49,9 +49,9 @@ Topics of students' interest in applied mathematics which will be announced in a
 |การแนะนำ Python Data Structure | [บทที่ 5](./materials/ch_05/texts.pdf) และ [ตัวอย่างสคริปต์](https://github.com/epsilonxe/RMUTT_09115403/tree/master/materials/ch_05) |
 |การใช้งาน Control Statements  | [บทที่ 6](./materials/ch_06/texts.pdf) และ [ตัวอย่างสคริปต์](https://github.com/epsilonxe/RMUTT_09115403/tree/master/materials/ch_06)  |
 |การเขียน Functions และ Lambda Functions | [บทที่ 7](./materials/ch_07/texts.pdf) และ [ตัวอย่างสคริปต์](https://github.com/epsilonxe/RMUTT_09115403/tree/master/materials/ch_07) |
-|การเรียกใช้ Built-in Functions | [ตัวอย่างสคริปต์](https://github.com/epsilonxe/RMUTT_09115403/tree/master/materials/standard_lib)  |
-|การใช้งานไลบราลี Numpy สำหรับงานด้านวิทยาศาสตร์ และวิศวกรรมศาสตร์ |  |
-|การทำ Data Visualization สำหรับงานด้านวิทยาศาสตร์ และวิศวกรรมศาสตร์  | [ตัวอย่างสคริปต์](https://github.com/epsilonxe/RMUTT_09115403/tree/master/materials/visualization) |
+|การเรียกใช้ Built-in Functions | [บทที่ 8][ตัวอย่างสคริปต์](https://github.com/epsilonxe/RMUTT_09115403/tree/master/materials/standard_lib)  |
+|การใช้งานไลบราลี Numpy สำหรับงานด้านวิทยาศาสตร์ และวิศวกรรมศาสตร์ | [บทที่ 9](./materials/numpy/numpy.pdf)[ตัวอย่างสคริปต์](https://github.com/epsilonxe/RMUTT_09115403/tree/master/materials/numpy) |
+|การทำ Data Visualization สำหรับงานด้านวิทยาศาสตร์ และวิศวกรรมศาสตร์  | [บทที่ 10](./materials/visualization/plot.pdf)[ตัวอย่างสคริปต์](https://github.com/epsilonxe/RMUTT_09115403/tree/master/materials/visualization) |
 |การพัฒนาโปรแกรมด้านระเบียบวิธีเชิงตัวเลขระดับเบื้องต้นสำหรับงานด้านวิทยาศาสตร์ และวิศวกรรมศาสตร์ | [ตัวอย่างสคริปต์](https://github.com/epsilonxe/RMUTT_09115403/tree/master/materials/numerical_methods) |
 
 ## การวัดผลการเรียน
